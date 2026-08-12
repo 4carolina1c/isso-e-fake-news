@@ -4,7 +4,7 @@ padding: 0;
 }
 
 .cabecalho {
-background-color: #530e8b;
+background-color: #9331e4;
 padding: 15px 25px;
 display: flex;
 justify-content: space-between;
@@ -45,7 +45,7 @@ font-size: 24px;
 }
 
 footer {
-background-color: #530e8b;
+background-color: #9331e4;
 padding: 15px 25px;
 color: #fff;
 }
